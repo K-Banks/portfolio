@@ -49,3 +49,7 @@
 .bkgrn {
   margin: .5em;
 }
+
+span {
+  text-decoration: underline;
+}
