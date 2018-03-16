@@ -6,6 +6,14 @@
   border: 1px solid red;
 }
 
+#profile {
+  width: 20%;
+  float: left;
+  background-color: red;
+  padding: 1em;
+  border-radius: 100px;
+}
+
 /*Edit out sidebar class while editing Navbar*/
 /*.sidebar {
   width: 20%;
