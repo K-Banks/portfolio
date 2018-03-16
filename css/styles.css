@@ -2,11 +2,13 @@
   width: 80%;
   float: right;
   text-align: center;
+  border: 1px solid red;
 }
 
 .sidebar {
   width: 20%;
   float: left;
+  border: 1px solid red;
 }
 
 .sidebar img {
@@ -17,7 +19,23 @@
   border-radius: 100px;
 }
 
+#about {
+  font-size: 24px;
+  font-family: cursive;
+}
+
 .container {
   width: 80%;
   float: right;
+  border: 1px solid red;
+}
+
+.main {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 0.5em;
+}
+
+.project-links {
+  border-left: 2px solid red;
 }
