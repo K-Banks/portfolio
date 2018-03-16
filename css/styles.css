@@ -1,11 +1,13 @@
 .jumbotron {
   width: 80%;
+  display: block;
   float: right;
   text-align: center;
   border: 1px solid red;
 }
 
-.sidebar {
+/*Edit out sidebar class while editing Navbar*/
+/*.sidebar {
   width: 20%;
   float: left;
   border: 1px solid red;
@@ -18,7 +20,7 @@
   margin-right: auto;
   width: 80%;
   border-radius: 100px;
-}
+}*/
 
 #about {
   font-size: 24px;
@@ -26,8 +28,6 @@
 }
 
 .container {
-  width: 80%;
-  float: right;
   border: 1px solid red;
 }
 
