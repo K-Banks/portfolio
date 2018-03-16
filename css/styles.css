@@ -21,6 +21,8 @@
 
 .nav-pills {
   font-family: 'Lobster' cursive;
+  width: 90%;
+  float: right;
 }
 
 nav.navbar {
