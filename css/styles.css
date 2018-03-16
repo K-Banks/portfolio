@@ -12,6 +12,7 @@
 }
 
 .sidebar img {
+  background-color: purple;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -38,4 +39,8 @@
 
 .project-links {
   border-left: 2px solid red;
+}
+
+.panel img {
+  width: 100%;
 }
