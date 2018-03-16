@@ -4,6 +4,31 @@
   float: right;
   text-align: center;
   border: 1px solid red;
+  font-family: 'Lobster', cursive;
+  font-size: 60px;
+}
+
+.navbar-header {
+  padding-left: .5em;
+  font-family: cursive;
+}
+
+.nav-tabs {
+  font-weight: bold;
+  font-family: 'Lobster', cursive;
+  font-size: 20px;
+}
+
+.nav-pills {
+  font-family: 'Lobster' cursive;
+}
+
+nav.navbar {
+  margin-bottom: 1px;
+}
+
+nav.sub {
+  margin-top: 1px;
 }
 
 #profile {
@@ -12,11 +37,6 @@
   background-color: red;
   padding: 1em;
   border-radius: 100px;
-}
-
-#about {
-  font-size: 24px;
-  font-family: cursive;
 }
 
 .container {
